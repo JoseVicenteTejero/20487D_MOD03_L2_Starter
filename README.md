@@ -6,8 +6,10 @@ RESUMEN
 
 
 
-/Imagen4.png
-Imagen5.png
+../Imagen4.png
+
+../Imagen5.png
+
 Imagen6.png
 Imagen7.png
 Imagen8.png
