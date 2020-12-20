@@ -1,24 +1,10 @@
-# 20487D_MOD03_L2_Starter
+# 20487D_MOD03_DEMO_L2_Starter
+Module 3: Creating and Consuming ASP.NET Core Web APIs
 
 JOSE VICENTE TEJERO - 19/12/2020
 
 RESUMEN
-
-
-
-../Imagen4.png
-
-../Imagen5.png
-
-Imagen6.png
-Imagen7.png
-Imagen8.png
-Imagen15.png
-Imagen16.png
-Imagen17.png
-Imagen18.png
-
-
+Creating Your First ASP.NET Core Web API
 
 PROBLEMAS
 No
